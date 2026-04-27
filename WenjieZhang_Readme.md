@@ -1,4 +1,4 @@
-# Cluedo -- Enhanced Edition (Project 2)
+# Cluedo -- (Project 2 Part 1)
 
 **Student:** Wenjie Zhang  
 **Project:** Project 2 -- Part 1  
@@ -85,7 +85,7 @@ You only get one accusation. Use suggestions to gather evidence before committin
 
 ## Live Gameplay Demonstration
 
-Here's one complete recorded playthrough. The walkthrough below follows that
+Here's a complete recorded playthrough. The walkthrough below follows that
 session step by step so a reader can see how the game actually unfolds in practice.
 
 1. The recorded game opens at **Turn 0** with the player using the default detective name,
