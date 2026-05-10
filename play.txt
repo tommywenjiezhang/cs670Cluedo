@@ -1,0 +1,1625 @@
+==============================================================
+  LIVE GAME OUTPUT
+==============================================================
+
+
+====================================================
+  BLACKWELL MANOR -- Investigation Begins
+  Turn 0  |  Playing as: Miss Scarlett
+====================================================
+
+  Detective : Detective
+  Identity  : Miss Scarlett
+  Gather clues with Suggestions.
+  You have ONE Accusation -- make it count.
+
+
+  Location : Hall
+  Exits    : Billiard Room, Lounge, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 0  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 0  |  Playing as: Miss Scarlett
+====================================================
+  Room: Hall  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '1'   -- suspect #1: Miss Scarlett
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '1'   -- weapon  #1: Candlestick
+
+  >> I suggest it was Miss Scarlett with the Candlestick in the Hall.
+
+  That suspect was not in the vicinity. The witnesses are certain.
+  That weapon bears no mark from the crime scene. Think again.
+
+  Location : Hall
+  Exits    : Billiard Room, Lounge, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 0  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [?] Colonel Mustard
+    [?] Mrs. White            [?] Mr. Green
+    [?] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [?] Revolver
+    [?] Rope                  [?] Lead Pipe
+    [?] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [?] Conservatory          [?] Dining Room
+    [?] Billiard Room         [?] Library
+    [?] Lounge                [?] Hall
+    [?] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Hall
+  Exits    : Billiard Room, Lounge, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 0  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |o   o|   |  o  |
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    6 + 5 = 11  -- You have 11 step(s) to move.
+
+
+  Steps remaining: 11
+  Where would you like to go?
+    1. Billiard Room
+    2. Lounge
+    3. Study
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Billiard Room  (from Hall)
+
+  You move to the Billiard Room.
+
+  Green baize stretched across three tables, one cue missing from the rack. A cigar still burns in the ashtray. Whoever was here left less than five minutes ago.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Billiard Room
+  Exits    : Conservatory, Hall, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 1  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 1  |  Playing as: Miss Scarlett
+====================================================
+  Room: Billiard Room  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '2'   -- suspect #2: Colonel Mustard
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '2'   -- weapon  #2: Revolver
+
+  >> I suggest it was Colonel Mustard with the Revolver in the Billiard Room.
+
+  Nothing aligns. Your theory collapses entirely. Start over.
+
+  Location : Billiard Room
+  Exits    : Conservatory, Hall, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 1  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [?] Mrs. White            [?] Mr. Green
+    [?] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [?] Rope                  [?] Lead Pipe
+    [?] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [?] Conservatory          [?] Dining Room
+    [X] Billiard Room         [?] Library
+    [?] Lounge                [?] Hall
+    [?] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Billiard Room
+  Exits    : Conservatory, Hall, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 1  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |  o  |   |o   o|
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    5 + 6 = 11  -- You have 11 step(s) to move.
+
+
+  Steps remaining: 11
+  Where would you like to go?
+    1. Conservatory
+    2. Hall
+    3. Library
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Conservatory  (from Billiard Room)
+
+  You move to the Conservatory.
+
+  Tropical plants press against the glass walls; the air is thick and damp. Something rustles behind the ferns. The garden door is locked from the inside.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Conservatory
+  Exits    : Ballroom, Billiard Room, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 2  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |     |   |o   o|
+    |  o  |   |     |
+    |     |   |o   o|
+    +-----+   +-----+
+
+    1 + 4 = 5  -- You have 5 step(s) to move.
+
+
+  Steps remaining: 5
+  Where would you like to go?
+    1. Ballroom
+    2. Billiard Room
+    3. Lounge
+    P. Take secret passage to Lounge  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '3'   -- exit #3: Lounge  (from Conservatory)
+
+  You move to the Lounge.
+
+  Deep leather armchairs face a fireplace full of cold ash. The drinks cabinet is open and one glass is missing. A draft from somewhere unnamed stirs the velvet curtains.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Lounge
+  Exits    : Conservatory, Dining Room, Hall
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 3  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 3  |  Playing as: Miss Scarlett
+====================================================
+  Room: Lounge  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '3'   -- suspect #3: Mrs. White
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '3'   -- weapon  #3: Rope
+
+  >> I suggest it was Mrs. White with the Rope in the Lounge.
+
+  Nothing aligns. Your theory collapses entirely. Start over.
+
+  Location : Lounge
+  Exits    : Conservatory, Dining Room, Hall
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 3  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [?] Mr. Green
+    [?] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [?] Lead Pipe
+    [?] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [?] Conservatory          [?] Dining Room
+    [X] Billiard Room         [?] Library
+    [X] Lounge                [?] Hall
+    [?] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Lounge
+  Exits    : Conservatory, Dining Room, Hall
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 3  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |     |   |o   o|
+    |  o  |   |  o  |
+    |     |   |o   o|
+    +-----+   +-----+
+
+    1 + 5 = 6  -- You have 6 step(s) to move.
+
+
+  Steps remaining: 6
+  Where would you like to go?
+    1. Conservatory
+    2. Dining Room
+    3. Hall
+    P. Take secret passage to Conservatory  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '3'   -- exit #3: Hall  (from Lounge)
+
+  You move to the Hall.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Hall
+  Exits    : Billiard Room, Lounge, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 4  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o    |   |o   o|
+    |     |   |  o  |
+    |    o|   |o   o|
+    +-----+   +-----+
+
+    2 + 5 = 7  -- You have 7 step(s) to move.
+
+
+  Steps remaining: 7
+  Where would you like to go?
+    1. Billiard Room
+    2. Lounge
+    3. Study
+    0. Stop moving
+  Enter choice:   [INPUT] '3'   -- exit #3: Study  (from Hall)
+
+  You move to the Study.
+
+  The victim's private study. Papers are strewn across the floor as if someone searched the room in desperation. The safe behind the portrait is open and empty.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Study
+  Exits    : Hall, Kitchen, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 5  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 5  |  Playing as: Miss Scarlett
+====================================================
+  Room: Study  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '4'   -- suspect #4: Mr. Green
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '4'   -- weapon  #4: Lead Pipe
+
+  >> I suggest it was Mr. Green with the Lead Pipe in the Study.
+
+  Nothing aligns. Your theory collapses entirely. Start over.
+
+  Location : Study
+  Exits    : Hall, Kitchen, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 5  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [X] Mr. Green
+    [?] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [X] Lead Pipe
+    [?] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [?] Conservatory          [?] Dining Room
+    [X] Billiard Room         [?] Library
+    [X] Lounge                [?] Hall
+    [X] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+    4. Turn 5: Mr. Green, Lead Pipe, Study -- all wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Study
+  Exits    : Hall, Kitchen, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 5  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |  o  |   |     |
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    5 + 4 = 9  -- You have 9 step(s) to move.
+
+
+  Steps remaining: 9
+  Where would you like to go?
+    1. Hall
+    2. Kitchen
+    3. Library
+    P. Take secret passage to Kitchen  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Hall  (from Study)
+
+  You move to the Hall.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Hall
+  Exits    : Billiard Room, Lounge, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 6  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |     |   |o   o|
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    4 + 6 = 10  -- You have 10 step(s) to move.
+
+
+  Steps remaining: 10
+  Where would you like to go?
+    1. Billiard Room
+    2. Lounge
+    3. Study
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Billiard Room  (from Hall)
+
+  You move to the Billiard Room.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Billiard Room
+  Exits    : Conservatory, Hall, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 7  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |     |   |     |
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    4 + 4 = 8  -- You have 8 step(s) to move.
+
+
+  Steps remaining: 8
+  Where would you like to go?
+    1. Conservatory
+    2. Hall
+    3. Library
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Conservatory  (from Billiard Room)
+
+  You move to the Conservatory.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Conservatory
+  Exits    : Ballroom, Billiard Room, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 8  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 8  |  Playing as: Miss Scarlett
+====================================================
+  Room: Conservatory  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '5'   -- suspect #5: Mrs. Peacock
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '5'   -- weapon  #5: Knife
+
+  >> I suggest it was Mrs. Peacock with the Knife in the Conservatory.
+
+  Nothing aligns. Your theory collapses entirely. Start over.
+
+  Location : Conservatory
+  Exits    : Ballroom, Billiard Room, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 8  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [X] Mr. Green
+    [X] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [X] Lead Pipe
+    [X] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [X] Conservatory          [?] Dining Room
+    [X] Billiard Room         [?] Library
+    [X] Lounge                [?] Hall
+    [X] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+    4. Turn 5: Mr. Green, Lead Pipe, Study -- all wrong.
+    5. Turn 8: Mrs. Peacock, Knife, Conservatory -- all wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Conservatory
+  Exits    : Ballroom, Billiard Room, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 8  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |o   o|   |o   o|
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    6 + 6 = 12  -- You have 12 step(s) to move.
+
+
+  Steps remaining: 12
+  Where would you like to go?
+    1. Ballroom
+    2. Billiard Room
+    3. Lounge
+    P. Take secret passage to Lounge  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '2'   -- exit #2: Billiard Room  (from Conservatory)
+
+  You move to the Billiard Room.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Billiard Room
+  Exits    : Conservatory, Hall, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 9  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o    |   |o    |
+    |  o  |   |     |
+    |    o|   |    o|
+    +-----+   +-----+
+
+    3 + 2 = 5  -- You have 5 step(s) to move.
+
+
+  Steps remaining: 5
+  Where would you like to go?
+    1. Conservatory
+    2. Hall
+    3. Library
+    0. Stop moving
+  Enter choice:   [INPUT] '3'   -- exit #3: Library  (from Billiard Room)
+
+  You move to the Library.
+
+  Floor-to-ceiling shelves surround you, one bookcase slightly ajar. A leather journal lies open on the desk, its last entry torn out. The ink is still wet on the blotter.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Library
+  Exits    : Billiard Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 10  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 10  |  Playing as: Miss Scarlett
+====================================================
+  Room: Library  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '6'   -- suspect #6: Professor Plum
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '6'   -- weapon  #6: Wrench
+
+  >> I suggest it was Professor Plum with the Wrench in the Library.
+
+  The crime did not occur in that room. Search the manor further.
+
+  Location : Library
+  Exits    : Billiard Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 10  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [X] Mr. Green
+    [X] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [X] Lead Pipe
+    [X] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [X] Conservatory          [?] Dining Room
+    [X] Billiard Room         [X] Library
+    [X] Lounge                [?] Hall
+    [X] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+    4. Turn 5: Mr. Green, Lead Pipe, Study -- all wrong.
+    5. Turn 8: Mrs. Peacock, Knife, Conservatory -- all wrong.
+    6. Turn 10: Professor Plum, Wrench, Library -- room wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Library
+  Exits    : Billiard Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 10  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o   o|
+    |     |   |  o  |
+    |o   o|   |o   o|
+    +-----+   +-----+
+
+    4 + 5 = 9  -- You have 9 step(s) to move.
+
+
+  Steps remaining: 9
+  Where would you like to go?
+    1. Billiard Room
+    2. Study
+    0. Stop moving
+  Enter choice:   [INPUT] '2'   -- exit #2: Study  (from Library)
+
+  You move to the Study.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Study
+  Exits    : Hall, Kitchen, Library
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 11  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o    |
+    |  o  |   |  o  |
+    |o   o|   |    o|
+    +-----+   +-----+
+
+    5 + 3 = 8  -- You have 8 step(s) to move.
+
+
+  Steps remaining: 8
+  Where would you like to go?
+    1. Hall
+    2. Kitchen
+    3. Library
+    P. Take secret passage to Kitchen  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '2'   -- exit #2: Kitchen  (from Study)
+
+  You move to the Kitchen.
+
+  The smell of burnt copper mingles with old grease. A carving knife is wedged into the cutting board as if someone left in a hurry. The clock on the wall stopped at 11:45.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Kitchen
+  Exits    : Ballroom, Dining Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 12  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o    |
+    |o   o|   |     |
+    |o   o|   |    o|
+    +-----+   +-----+
+
+    6 + 2 = 8  -- You have 8 step(s) to move.
+
+
+  Steps remaining: 8
+  Where would you like to go?
+    1. Ballroom
+    2. Dining Room
+    3. Study
+    P. Take secret passage to Study  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '2'   -- exit #2: Dining Room  (from Kitchen)
+
+  You move to the Dining Room.
+
+  A long mahogany table set for twelve with only one chair overturned. The candles are melted to stubs. A dinner bell lies on the floor as if it rolled from someone's hand.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Dining Room
+  Exits    : Kitchen, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 13  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 13  |  Playing as: Miss Scarlett
+====================================================
+  Room: Dining Room  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '6'   -- suspect #6: Professor Plum
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '6'   -- weapon  #6: Wrench
+
+  >> I suggest it was Professor Plum with the Wrench in the Dining Room.
+
+  The crime did not occur in that room. Search the manor further.
+
+  Location : Dining Room
+  Exits    : Kitchen, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 13  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [X] Mr. Green
+    [X] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [X] Lead Pipe
+    [X] Knife                 [?] Wrench
+
+  ROOMS:
+    [?] Kitchen               [?] Ballroom
+    [X] Conservatory          [X] Dining Room
+    [X] Billiard Room         [X] Library
+    [X] Lounge                [?] Hall
+    [X] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+    4. Turn 5: Mr. Green, Lead Pipe, Study -- all wrong.
+    5. Turn 8: Mrs. Peacock, Knife, Conservatory -- all wrong.
+    6. Turn 10: Professor Plum, Wrench, Library -- room wrong.
+    7. Turn 13: Professor Plum, Wrench, Dining Room -- room wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Dining Room
+  Exits    : Kitchen, Lounge
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 13  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o    |   |o   o|
+    |     |   |     |
+    |    o|   |o   o|
+    +-----+   +-----+
+
+    2 + 4 = 6  -- You have 6 step(s) to move.
+
+
+  Steps remaining: 6
+  Where would you like to go?
+    1. Kitchen
+    2. Lounge
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Kitchen  (from Dining Room)
+
+  You move to the Kitchen.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Kitchen
+  Exits    : Ballroom, Dining Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 14  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 14  |  Playing as: Miss Scarlett
+====================================================
+  Room: Kitchen  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '6'   -- suspect #6: Professor Plum
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '6'   -- weapon  #6: Wrench
+
+  >> I suggest it was Professor Plum with the Wrench in the Kitchen.
+
+  The crime did not occur in that room. Search the manor further.
+
+  Location : Kitchen
+  Exits    : Ballroom, Dining Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 14  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [X] Mr. Green
+    [X] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [X] Lead Pipe
+    [X] Knife                 [?] Wrench
+
+  ROOMS:
+    [X] Kitchen               [?] Ballroom
+    [X] Conservatory          [X] Dining Room
+    [X] Billiard Room         [X] Library
+    [X] Lounge                [?] Hall
+    [X] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+    4. Turn 5: Mr. Green, Lead Pipe, Study -- all wrong.
+    5. Turn 8: Mrs. Peacock, Knife, Conservatory -- all wrong.
+    6. Turn 10: Professor Plum, Wrench, Library -- room wrong.
+    7. Turn 13: Professor Plum, Wrench, Dining Room -- room wrong.
+    8. Turn 14: Professor Plum, Wrench, Kitchen -- room wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Kitchen
+  Exits    : Ballroom, Dining Room, Study
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 14  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '1'   -- menu: Move (roll dice)
+
+  Rolling the dice...
+    +-----+   +-----+
+    |o   o|   |o    |
+    |  o  |   |  o  |
+    |o   o|   |    o|
+    +-----+   +-----+
+
+    5 + 3 = 8  -- You have 8 step(s) to move.
+
+
+  Steps remaining: 8
+  Where would you like to go?
+    1. Ballroom
+    2. Dining Room
+    3. Study
+    P. Take secret passage to Study  (free -- no step cost)
+    0. Stop moving
+  Enter choice:   [INPUT] '1'   -- exit #1: Ballroom  (from Kitchen)
+
+  You move to the Ballroom.
+
+  Crystal chandeliers hang dark and still. A champagne glass lies shattered near the grand piano, and a single muddy footprint crosses the parquet floor.
+  Continue moving? (y/n):   [INPUT] 'n'   -- stop after this hop
+
+  Location : Ballroom
+  Exits    : Conservatory, Kitchen
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 15  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '2'   -- menu: Make a Suggestion
+
+====================================================
+  MAKE A SUGGESTION
+  Turn 15  |  Playing as: Miss Scarlett
+====================================================
+  Room: Ballroom  (fixed to your current location)
+
+  Choose a suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '6'   -- suspect #6: Professor Plum
+
+  Choose a weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '6'   -- weapon  #6: Wrench
+
+  >> I suggest it was Professor Plum with the Wrench in the Ballroom.
+
+  The crime did not occur in that room. Search the manor further.
+
+  Location : Ballroom
+  Exits    : Conservatory, Kitchen
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 15  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '4'   -- menu: View Detective's Notebook
+
+========================================================
+              DETECTIVE'S NOTEBOOK
+========================================================
+
+  SUSPECTS:
+    [X] Miss Scarlett         [X] Colonel Mustard
+    [X] Mrs. White            [X] Mr. Green
+    [X] Mrs. Peacock          [?] Professor Plum
+
+  WEAPONS:
+    [X] Candlestick           [X] Revolver
+    [X] Rope                  [X] Lead Pipe
+    [X] Knife                 [?] Wrench
+
+  ROOMS:
+    [X] Kitchen               [X] Ballroom
+    [X] Conservatory          [X] Dining Room
+    [X] Billiard Room         [X] Library
+    [X] Lounge                [?] Hall
+    [X] Study                 
+
+  PERSONAL NOTES:
+    1. Turn 0: Miss Scarlett, Candlestick, Hall -- suspect, weapon wrong.
+    2. Turn 1: Colonel Mustard, Revolver, Billiard Room -- all wrong.
+    3. Turn 3: Mrs. White, Rope, Lounge -- all wrong.
+    4. Turn 5: Mr. Green, Lead Pipe, Study -- all wrong.
+    5. Turn 8: Mrs. Peacock, Knife, Conservatory -- all wrong.
+    6. Turn 10: Professor Plum, Wrench, Library -- room wrong.
+    7. Turn 13: Professor Plum, Wrench, Dining Room -- room wrong.
+    8. Turn 14: Professor Plum, Wrench, Kitchen -- room wrong.
+    9. Turn 15: Professor Plum, Wrench, Ballroom -- room wrong.
+
+--------------------------------------------------------
+  [?] Unknown   [X] Ruled out   [!] Confirmed
+========================================================
+
+  Location : Ballroom
+  Exits    : Conservatory, Kitchen
+
+====================================================
+  WHAT WILL YOU DO?
+  Turn 15  |  Playing as: Miss Scarlett
+====================================================
+  1. Move  (roll dice)
+  2. Make a Suggestion  (current room)
+  3. Make an Accusation  [one chance -- win or lose!]
+  4. View Detective's Notebook
+  5. View Room Description
+  6. View Mansion Map
+  7. View Characters
+  8. View Weapons
+  9. Quit
+
+  Your choice (1-9):   [INPUT] '3'   -- menu: Make an Accusation
+
+====================================================
+  FINAL ACCUSATION
+  Turn 15  |  Playing as: Miss Scarlett
+====================================================
+
+  WARNING: You only get ONE accusation.
+  If you are wrong, the investigation is over.
+
+  Are you ready to make your accusation? (y/n):   [INPUT] 'y'   -- confirm the accusation
+
+  Choose the suspect:
+    1. Miss Scarlett
+    2. Colonel Mustard
+    3. Mrs. White
+    4. Mr. Green
+    5. Mrs. Peacock
+    6. Professor Plum
+    0. Cancel
+  Suspect number:   [INPUT] '6'   -- suspect #6: Professor Plum
+
+  Choose the weapon:
+    1. Candlestick
+    2. Revolver
+    3. Rope
+    4. Lead Pipe
+    5. Knife
+    6. Wrench
+    0. Cancel
+  Weapon number:   [INPUT] '6'   -- weapon  #6: Wrench
+
+  Choose the room:
+    1. Kitchen
+    2. Ballroom
+    3. Conservatory
+    4. Dining Room
+    5. Billiard Room
+    6. Library
+    7. Lounge
+    8. Hall
+    9. Study
+    0. Cancel
+  Room number:   [INPUT] '8'   -- room    #8: Hall
+
+  You accuse: Professor Plum with the Wrench in the Hall.
+
+
+You step forward and speak in a clear voice.
+The room falls silent. Every suspect turns to look at you.
+
+You name the murderer.
+You name the weapon.
+You name the room.
+
+A long pause...
+
+Then the colour drains from one face -- and they bolt for the door.
+They don't make it.
+
+Inspector Nettlefield arrives the next morning to collect them.
+Your name will appear in the papers.
+
+  * * *  CASE CLOSED  * * *
+
+
+==============================================================
+  AUTO-SOLVER  --  investigation complete
+  True solution  : Professor Plum | Wrench | Hall
+==============================================================
